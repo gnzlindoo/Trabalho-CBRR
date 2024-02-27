@@ -1,0 +1,16 @@
+body {
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(36,15,152,1) 100%); 
+    text-align: center 
+   }
+
+ul {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    font-style: italic;
+    color: #87CEFA;
+}
+h1 {
+    font-size: 450%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
